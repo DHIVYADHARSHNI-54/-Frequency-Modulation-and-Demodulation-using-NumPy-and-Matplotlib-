@@ -77,6 +77,10 @@ __Algorithm:__
    plt.show()
 
 ```
+__Tabulation__:
+
+<img width="664" height="618" alt="image" src="https://github.com/user-attachments/assets/ddc03ada-8908-40eb-828c-b77158d01845" />
+
 __Output:__
 <img width="989" height="790" alt="image" src="https://github.com/user-attachments/assets/c2c71bdc-d74f-456e-949b-6ccd4c25a91f" />
 
